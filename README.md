@@ -16,4 +16,4 @@ Steps to setup and test the code:
 
   Step 6: ensure the name of your database is properly inputted at the end of the url String of the java code to ensure connection to the database
 
-  Step 7: run the program and test the functions!
+  Step 7: run the program and test the functions by comparing them to the output of executing SELECT * FROM students after a change is made using the java program!
